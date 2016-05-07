@@ -5,4 +5,5 @@ This is DataMinders team repository for competition hosted on http://datahack.an
 ## Team Members
 
 Oleksii Renov 
+
 Thakur Raj Anand 
